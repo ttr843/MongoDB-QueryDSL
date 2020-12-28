@@ -1,4 +1,4 @@
-# MongoDB + Spring-boot HATEOAS rest-api
+# MongoDB + QueryDSL
 
 This sample project shows how to use [MongoDB](https://www.mongodb.com) with [QueryDSL](http://www.querydsl.com) on [Java](https://www.oracle.com/ru/java/technologies/)
 [Spring-boot](https://spring.io/projects/spring-boot) 
