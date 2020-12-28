@@ -159,3 +159,6 @@ effective-settings.xml
 *.lck
 *.jar
 */dependency-reduced-pom.xml
+mvnw.cmd
+mvnw
+.mvn/wrapper
