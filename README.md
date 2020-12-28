@@ -4,7 +4,7 @@ This sample project shows how to use [MongoDB](https://www.mongodb.com) with [Qu
 [Spring-boot](https://spring.io/projects/spring-boot) 
 
 ## Information 
-* Folder generated-docs contains example of Qmodels.
+* Folder generated-sorces contains example of Qmodels.
 
 
 ## Used technologies
